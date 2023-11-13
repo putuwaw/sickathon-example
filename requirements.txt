@@ -52,7 +52,7 @@ rpds-py==0.10.3
 rsa==4.9
 six==1.16.0
 smmap==5.0.1
-sql-metadata==2.8.0
+sql-metadata==2.10.0
 SQLAlchemy==2.0.21
 sqlparse==0.4.4
 st-pages==0.4.4
